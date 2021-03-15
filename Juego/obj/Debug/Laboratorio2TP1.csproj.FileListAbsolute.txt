@@ -1,0 +1,148 @@
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Documents\TUP\laboratorio II\tp\Laboratorio2TP1\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Usuario\Desktop\Laboratorio2TP1\Laboratorio2TP1\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Downloads\UltimoMiercolesNoche\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\agust\OneDrive\Escritorio\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.VentanaGanador.resources
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.VentanaGanador.resources
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Downloads\23septiembre(mediodia)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.VentanaGanador.resources
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Florencia\Downloads\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.VentanaGanador.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.VentanaGanador.resources
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\agust\OneDrive\Escritorio\23septiembre(noche)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.VentanaGanador.resources
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Downloads\28septiembre(siesta)\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe.config
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\bin\Debug\Laboratorio2TP1.pdb
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csprojAssemblyReference.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.CrearJugador.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Form1.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.Properties.Resources.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.VentanaGanador.resources
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.GenerateResource.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.exe
+C:\Users\Facu\Documents\Visual Studio 2019\Proyect\TP1Final\UltimoMiercolesmadrugada\Laboratorio2TP1Ultimo\obj\Debug\Laboratorio2TP1.pdb
